@@ -33,14 +33,14 @@ ________________________________________
 
 •	Le HyperText Markup Langage, généralement abrégé HTML ou dans sa dernière version HTML5, est le langage de balisage conçu pour représenter les pages web.
 
-voir également à propos HTML5 🔗
+voir également à propos HTML5 (https://developer.mozilla.org/fr/docs/Web/HTML)
 
 
  2.CSS3
 
 •	Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML.
 
-voir également à propos [HTML5] CSS3 🔗
+voir également à propos [HTML5] CSS3 (https://developer.mozilla.org/fr/docs/Web/CSS)
 
 
  3.BootsTrap
@@ -48,28 +48,28 @@ voir également à propos [HTML5] CSS3 🔗
 •	Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web.
 •	C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option.
 
-voir également à propos Bootstrap 🔗
+voir également à propos Bootstrap (https://getbootstrap.com/)
 
 
  4.MySQL
 
 •	Est un système de gestion de base de données relationnelle (SGBDR) open source. Son nom est une combinaison de "My", le nom de la fille du co-fondateur Michael Widenius, et de "SQL", l'abréviation de Structured Query Language. Une base de données relationnelle organise les données en une ou plusieurs tables de données dans lesquelles les types de données peuvent être liés les uns aux autres ; ces relations aident à structurer les données. SQL est un langage utilisé par les programmeurs pour créer, modifier et extraire des données de la base de données relationnelle, ainsi que pour contrôler l'accès des utilisateurs à la base de données.
 
-Voir également à propos MySQL 🔗
+Voir également à propos MySQL (https://www.oracle.com/fr/mysql/what-is-mysql/)
 
 
  5.JavaScript
  
 •	JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web. Avec les technologies HTML et CSS, JavaScript est parfois considéré comme l'une des technologies cœur du World Wide Web.
 
-Voir également à propos JavaScript 🔗
+Voir également à propos JavaScript (https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
 
 5.PHP
 
 •	Hypertext Preprocessor, plus connu sous son sigle PHP, est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.
 
-Voir également à propos PHP 🔗
+Voir également à propos PHP (https://www.php.net/)
 
 
 
