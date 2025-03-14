@@ -15,9 +15,15 @@ La conception d'un E-commerce(Vente d'appareil électronique) avec PHP/javascrip
  Les entités utilisées dans  sont :
 ________________________________________
 ● Users, (id, nom, email, password) 
+
 ● Commandes, (id, nom, produits, quantité, total) 
+
 ● Produits, (id, nom, quantité, description, image) 
+
 ● Catégories (id, nom)
+
+● panier (id, user_id, produit_id, quantité)
+
 
  Les règles et associations 🏷️
 
